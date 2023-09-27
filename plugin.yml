@@ -1,0 +1,5 @@
+name: SpigotDoom
+main: net.zeeraa.spigotdoom.SpigotDoom
+description: Because why wouldn't you want to play doom in the server console
+version: 1.0
+authors: [Zeeraa]
